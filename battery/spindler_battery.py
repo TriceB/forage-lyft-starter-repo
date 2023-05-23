@@ -13,3 +13,4 @@ class SpindlerBattery(Battery):
             return True
         else:
             return False
+        
